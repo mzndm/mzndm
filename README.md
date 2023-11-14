@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-### About me
+### 👨‍💻 About me
 Hi there, my name is Dmytro Mazun.
 I am experienced Angular Frontend Developer with a strong background in web app development.
 
@@ -11,23 +11,8 @@ I am experienced Angular Frontend Developer with a strong background in web app 
   <a href="https://www.linkedin.com/in/dmytro-mazun" target="_blank" rel="noreferrer"> <img alt="Dmytro Mazun's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-### Languages and tools:
-![My Skills](https://skillicons.dev/icons?i=angular,js,ts,nodejs,git,wordpress,html,css,sass,jquery,reactivex,figma,gulp,php&perline=15)
+### 🛠 Languages and tools:
+![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,sass,jquery,nodejs,git,wordpress,reactivex,figma,gulp,php&perline=15)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzndm&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzndm&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**mzndm/mzndm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzndm&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzndm&hide_border=true)
