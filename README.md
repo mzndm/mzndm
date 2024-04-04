@@ -12,7 +12,7 @@ I am experienced Angular Frontend Developer with a strong background in web app 
 </div>
 
 ### 🛠 Languages and tools:
-![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,sass,jquery,nodejs,git,wordpress,reactivex,figma,gulp,php&perline=15)
+![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,html,css,sass,nodejs,firebase,git,reactivex,figma,gulp,php&perline=15)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzndm&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzndm&hide_border=true)
