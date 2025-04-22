@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me
 Hi there, my name is Dmytro Mazun.
-I am experienced Angular Frontend Developer with a strong background in web app development.
+I am an experienced Angular Frontend Developer with a strong background in web app development.
 
 ### 📨 Social & Contact
 <div align="left">
@@ -12,7 +12,7 @@ I am experienced Angular Frontend Developer with a strong background in web app 
 </div>
 
 ### 🛠 Languages and tools:
-![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,html,css,sass,nodejs,firebase,git,reactivex,figma,gulp,php&perline=15)
+![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,html,css,sass,nodejs,firebase,git,figma,cs,dotnet,postgres&perline=15)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzndm&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzndm&hide_border=true)
